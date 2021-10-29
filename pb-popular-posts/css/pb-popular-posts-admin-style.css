@@ -1,0 +1,15 @@
+.pb-popular-del{
+    color: #ff0000;
+    font-weight: bold;
+}
+.pb-popular-del:hover{
+    color: #cc0000;
+    font-weight: bold;
+}
+.pb-popular-hidden{
+    display: none;
+}
+img.loader-size{
+    width: 15px;
+    height: 15px;
+}
